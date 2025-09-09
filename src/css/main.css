@@ -5,16 +5,15 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: Arial, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     background-color: white;
-    box-sizing: border-box;
 }
 
 .card {
     background-color: #696969;
     color: white;
     padding: 2rem;
-    width: 1000px;
+    width:750px;
     max-width: 90%;
     max-height: 90%;
     text-align: center;
@@ -44,7 +43,6 @@ body {
     text-decoration: underline;
     font-size: 1.2rem;
 }
-
 
 .bio, .experience {
     text-align: center;
